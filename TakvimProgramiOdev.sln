@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31919.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TakvimProgramiOdev", "TakvimProgramiOdev\TakvimProgramiOdev.csproj", "{B375BB0A-1D05-4790-A9B4-FE0E45E4C8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B375BB0A-1D05-4790-A9B4-FE0E45E4C8DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B375BB0A-1D05-4790-A9B4-FE0E45E4C8DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B375BB0A-1D05-4790-A9B4-FE0E45E4C8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B375BB0A-1D05-4790-A9B4-FE0E45E4C8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B916CD8-03C4-4A8B-B98F-D3C0F4C6B357}
+	EndGlobalSection
+EndGlobal

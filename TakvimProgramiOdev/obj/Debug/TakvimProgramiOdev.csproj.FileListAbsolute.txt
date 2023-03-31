@@ -1,0 +1,11 @@
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\bin\Debug\TakvimProgramiOdev.exe.config
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\bin\Debug\TakvimProgramiOdev.exe
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\bin\Debug\TakvimProgramiOdev.pdb
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\obj\Debug\TakvimProgramiOdev.csproj.AssemblyReference.cache
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\obj\Debug\TakvimProgramiOdev.csproj.SuggestedBindingRedirects.cache
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\obj\Debug\TakvimProgramiOdev.Form1.resources
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\obj\Debug\TakvimProgramiOdev.Properties.Resources.resources
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\obj\Debug\TakvimProgramiOdev.csproj.GenerateResource.cache
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\obj\Debug\TakvimProgramiOdev.csproj.CoreCompileInputs.cache
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\obj\Debug\TakvimProgramiOdev.exe
+D:\Desktop\ÖDEV\NDP\Ödev\TakvimProgramiOdev\TakvimProgramiOdev\obj\Debug\TakvimProgramiOdev.pdb
